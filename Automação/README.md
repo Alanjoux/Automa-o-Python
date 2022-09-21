@@ -2,8 +2,11 @@ Projeto Automação Criado 14/09/2022 Quarta-Feira as 13:50
 
 
 
-Projeto consiste em utilizar a biblioteca pyautogui, utilizando 
+Projeto consiste em importa a tabela de vendas, fazer uma análise mas afundo
 
-automação para realizar backup de arquivo.
+dividir em pequenas tabelas, somar faturamento por loja, soma e separar os
 
-Projeto simples feito para treinamento.
+produtos vendidos, analisar os ‘tickets’ médios das lojas.
+
+
+Enviar os dados tratados por e-mail automatizado.
